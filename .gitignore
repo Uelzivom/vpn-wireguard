@@ -1,0 +1,11 @@
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Segredos (nao devem existir neste projeto, mas nunca entram no repo)
+.env
+.env.*
+!.env.example
+
+# Dependencias (nao usadas aqui)
+node_modules/
